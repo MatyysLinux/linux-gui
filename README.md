@@ -1,13 +1,8 @@
 # Linux Codespace with GUI
 ## Use:
-::start
-vnc --start
-::
 
-::stop 
-vnc --stop
-::
+### vnc --start
 
-::install
-vnc --install
-::
+### vnc --stop
+
+### vnc --install
